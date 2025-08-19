@@ -21,7 +21,9 @@ AND percentage_laid_off IS NULL;
 ALTER TABLE layoffs_staging_02
 DROP COLUMN RNUM;
 
-
-
+-- Conclusion:
+-- DELETE function
+-- ALTER TABLE - DROP 
+-- 
 
 
