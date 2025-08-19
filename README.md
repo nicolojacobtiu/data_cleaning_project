@@ -16,3 +16,12 @@ LINK: https://www.youtube.com/watch?v=4UltKCnnnTA&list=PLUaB-1hjhk8FE_XZ87vPPSfH
 ## 🧠 Notes
 - Some files include manual adjustments.
 - Based on real-world SQL exercises for analysts.
+
+
+## SQL Techniques Used
+
+- CTEs (`WITH`)
+- Window Functions (`ROW_NUMBER() OVER`)
+- Filtering on `NULL` and empty strings
+- Self-JOIN for populating missing data
+- `CREATE TABLE`, `INSERT INTO`, `DELETE`, `UPDATE`
